@@ -1,0 +1,17 @@
+$button-color:blue;
+$button-font-color: white;
+$font-size:30px;
+$font-weight:bold;
+
+.my-button{
+background: $button-color;
+color: $button-font-color;
+font-size: $font-size;
+padding: 5px 25px;
+outline: none;
+}
+
+.my-paragraph{
+  font-weight: $font-weight;
+  color: $button-color;
+}
